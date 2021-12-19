@@ -1,3 +1,3 @@
 # mwebscraper
 case 5 devops project
-exe file is located in the debug folder 
+exe file is located in the bin/debug folder 
